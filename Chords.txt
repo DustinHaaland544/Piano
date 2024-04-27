@@ -1,0 +1,77 @@
+Certainly! Here's a detailed breakdown of major and minor chords in every key:
+
+Major Chords:
+
+C major (C): C, E, G
+- Root: C
+- Major third: E (4 half steps above the root)
+- Perfect fifth: G (7 half steps above the root)
+
+D major (D): D, F#, A
+- Root: D
+- Major third: F# (4 half steps above the root)
+- Perfect fifth: A (7 half steps above the root)
+
+E major (E): E, G#, B
+- Root: E
+- Major third: G# (4 half steps above the root)
+- Perfect fifth: B (7 half steps above the root)
+
+F major (F): F, A, C
+- Root: F
+- Major third: A (4 half steps above the root)
+- Perfect fifth: C (7 half steps above the root)
+
+G major (G): G, B, D
+- Root: G
+- Major third: B (4 half steps above the root)
+- Perfect fifth: D (7 half steps above the root)
+
+A major (A): A, C#, E
+- Root: A
+- Major third: C# (4 half steps above the root)
+- Perfect fifth: E (7 half steps above the root)
+
+B major (B): B, D#, F#
+- Root: B
+- Major third: D# (4 half steps above the root)
+- Perfect fifth: F# (7 half steps above the root)
+
+Minor Chords:
+
+C minor (Cm): C, E♭, G
+- Root: C
+- Minor third: E♭ (3 half steps above the root)
+- Perfect fifth: G (7 half steps above the root)
+
+D minor (Dm): D, F, A
+- Root: D
+- Minor third: F (3 half steps above the root)
+- Perfect fifth: A (7 half steps above the root)
+
+E minor (Em): E, G, B
+- Root: E
+- Minor third: G (3 half steps above the root)
+- Perfect fifth: B (7 half steps above the root)
+
+F minor (Fm): F, G#, C
+- Root: F
+- Minor third: G# (3 half steps above the root)
+- Perfect fifth: C (7 half steps above the root)
+
+G minor (Gm): G, B♭, D
+- Root: G
+- Minor third: B♭ (3 half steps above the root)
+- Perfect fifth: D (7 half steps above the root)
+
+A minor (Am): A, C, E
+- Root: A
+- Minor third: C (3 half steps above the root)
+- Perfect fifth: E (7 half steps above the root)
+
+B minor (Bm): B, D, F#
+- Root: B
+- Minor third: D (3 half steps above the root)
+- Perfect fifth: F# (7 half steps above the root)
+
+These breakdowns include the notes that make up each chord, as well as their respective intervals from the root note. You can use this information to study and practice each chord systematically.
