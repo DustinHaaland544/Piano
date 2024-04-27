@@ -74,4 +74,5 @@ B minor (Bm): B, D, F#
 - Minor third: D (3 half steps above the root)
 - Perfect fifth: F# (7 half steps above the root)
 
-These breakdowns include the notes that make up each chord, as well as their respective intervals from the root note. You can use this information to study and practice each chord systematically.
+These breakdowns include the notes that make up each chord, as well as their respective intervals from the root note. You can use this information to study and
+practice each chord systematically.
